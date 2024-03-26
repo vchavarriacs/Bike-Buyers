@@ -6,6 +6,7 @@ Microsoft Excel
 
 # Project Structure
 Data: Contains the raw data files, working sheet for cleaning, pivot tables sheet for data exploration and chart creation and dashboard sheet for gathering all the charts and filter for an easier use. 
+
 Analysis: Contains the Excel file with the cleaned data and pivot tables.
 Getting Started
 To run the analysis, open the Excel file in the Analysis folder.

@@ -1,5 +1,5 @@
 # Bike-Buyers
- The data has been cleaned to remove null and replicated values, and pivot tables have been created to interpret the information. The data is divided by whether a bike was purchased.
+This project analyzes the purchase of bikes in different regions (Pacific, North America, and Europe) based on various factors including marital status, number of children, commuting distance, income, home ownership, and age. The data has been cleaned to remove null and replicated values, and pivot tables have been created to interpret the information. The data is divided by whether a bike was purchased.
 
 # Tools and Technologies Used
 Microsoft Excel
